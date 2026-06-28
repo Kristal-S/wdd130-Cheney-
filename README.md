@@ -1,6 +1,9 @@
-# Client Website Project
+# WDD 130 Client Website
 
 Developer: Kristal Stanford
 
-Published Website:
-https://Kristal-S.github.com/wdd130-Cheney/
+Repository:
+https://github.com/Kristal-S/wdd130-cheney
+
+Published Site:
+https://kristal-s.github.io/wdd130-cheney/
